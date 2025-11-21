@@ -1,0 +1,21 @@
+# Unreal Engine standard ignores
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+.vscode/
+*.VC.db
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.tmp
+*.log
+
+# macOS files
+.DS_Store
+
+# Backup and autosaves
+Saved/Backup/
+Saved/Autosaves/
